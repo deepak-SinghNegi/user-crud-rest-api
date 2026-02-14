@@ -11,7 +11,7 @@ Frontend (AWS S3):
 http://deepak-project-bkt.s3-website.ap-south-1.amazonaws.com/
 
 Backend (Spring Boot REST API):
-[<PUT_YOUR_BACKEND_API_LINK_HERE>](https://zrxh5x9qy5.execute-api.ap-south-1.amazonaws.com/allUsers)
+https://zrxh5x9qy5.execute-api.ap-south-1.amazonaws.com/allUsers
 
 ---
 
@@ -94,5 +94,6 @@ This project was built as a hands-on practice application to:
 Deepak Singh Negi  
 B.Tech CSE (Lateral Entry)  
 Backend-focused developer learning system design & scalable architectures
+
 
 
